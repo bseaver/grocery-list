@@ -1,4 +1,4 @@
-# _Mad Lib_
+# _Grocery List_
 
 #### _Use form and array to sort a grocery list, 1/16/2017_
 
@@ -14,7 +14,7 @@ _Exploring use of Arrays_
 * _Open index.html_
 
 ## See page on GitHub.io
-[https://bseaver.github.io/grocery-list/]()
+[https://bseaver.github.io/grocery-list/](https://bseaver.github.io/grocery-list/)
 
 ## Known Bugs
 
