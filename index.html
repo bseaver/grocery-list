@@ -11,19 +11,21 @@
   <body>
     <div class="container">
       <h2>Enter List of Groceries for Sorted Checklist</h2>
+        <div id="inputSection" class="well">
+          <form id="inputForm">
+            <div class="form-group">
+              <label for="inputGroceries">Enter Grocery List</label>
+              <textarea id="inputGroceries" class="form-control" rows="10" placeholder="Your list"></textarea>
+            </div>
+            <button type="submit" class="btn">
+              Submit!
+            </button>
+          </form>
+        </div>
 
-        <form>
-          <div class="form-group">
-            <label for="inputGroceries">Enter Grocery List</label>
-            <textarea id="inputGroceries" class="form-control" rows="5" placeholder="Your list"></textarea>
-          </div>
-          <button type="submit" class="btn">
-            Submit!
-          </button>
-        </form>
-
-        <div class="well hidden">
+        <div id="outputSection" class="well">
           <h4>Your Sorted List:</h4>
+          <textarea id="outputGroceries" rows="10"></textarea>
         </div>
 
     </div>

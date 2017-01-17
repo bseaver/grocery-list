@@ -1,2 +1,7 @@
-/* No additional styling at present!
-** Just using Bootstrap rows and columns */
+.well>textarea {
+  width: 100%;
+}
+
+#outputSection {
+  display: none;
+}
